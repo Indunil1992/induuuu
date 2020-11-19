@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "induuuu.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 7
+          "lineNumber": 3,
+          "column": 8
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1605774356912
+    "lastSave": 1605774434107
   },
   "VCS_STATE": {
     "provider": "GitHub",
